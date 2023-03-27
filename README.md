@@ -18,10 +18,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![MIT License][license-shield]][license-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -69,17 +69,13 @@ Golang programming environment is required
 Run the following commmand under 'src' folder
 ```
 go build 
-
 ```
 ### Test
 Run the following commmand under 'src' folder
 ```
 ./luago/main  lua/test.lua
-
 ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -138,7 +134,7 @@ Project Link: [https://github.com/ccl2020/LuaInterpreter](https://github.com/ccl
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/ccl2020/LuaInterpreter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/chuanlong-chen-086419212/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
