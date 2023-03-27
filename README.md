@@ -18,9 +18,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![MIT License][license-shield]][license-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -69,17 +69,13 @@ Golang programming environment is required
 Run the following commmand under 'src' folder
 ```
 go build 
-
 ```
 ### Test
 Run the following commmand under 'src' folder
 ```
 ./luago/main  lua/test.lua
-
 ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 ## Roadmap
 
