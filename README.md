@@ -18,9 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -65,30 +63,25 @@ Golang programming environment is required
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-### Build
+#### 1. Build
 Run the following commmand under 'src' folder
 ```
 go build 
-
 ```
-### Test
+#### 2. Test
 Run the following commmand under 'src' folder
 ```
 ./luago/main  lua/test.lua
-
 ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] Add souce code
 - [x] Add Readme
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -107,7 +100,8 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
+## License 
+[![MIT License][license-shield]][license-url]
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -138,7 +132,7 @@ Project Link: [https://github.com/ccl2020/LuaInterpreter](https://github.com/ccl
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/ccl2020/LuaInterpreter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/chuanlong-chen-086419212/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
