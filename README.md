@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -57,19 +55,17 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Golang programming environment is required
-
-[Install Golang](https://go.dev/doc/install)
+Golang programming environment is required. [Install Golang](https://go.dev/doc/install)
 
 <!-- USAGE EXAMPLES -->
-## Usage
+### Usage
 #### 1. Build
-Run the following commmand under 'src' folder
+Run the following commmand under 'src' folder :
 ```
 go build 
 ```
 #### 2. Test
-Run the following commmand under 'src' folder
+Run the following commmand under 'src' folder :
 ```
 ./luago/main  lua/test.lua
 ```
