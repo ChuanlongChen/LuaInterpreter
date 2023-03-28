@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -18,10 +16,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![MIT License][license-shield]][license-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -59,32 +55,29 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Golang programming environment is required
-
-[Install Golang](https://go.dev/doc/install)
+Golang programming environment is required. [Install Golang](https://go.dev/doc/install)
 
 <!-- USAGE EXAMPLES -->
-## Usage
-### Build
-Run the following commmand under 'src' folder
+### Usage
+#### 1. Build
+Run the following commmand under 'src' folder :
 ```
 go build 
 ```
-### Test
-Run the following commmand under 'src' folder
+#### 2. Test
+Run the following commmand under 'src' folder :
 ```
 ./luago/main  lua/test.lua
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] Add souce code
 - [x] Add Readme
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -103,7 +96,8 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
+## License 
+[![MIT License][license-shield]][license-url]
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
