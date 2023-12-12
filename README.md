@@ -1,7 +1,6 @@
 
-![CI Workflow Status](https://github.com/ccl2020/ChatGPT-Telegram-Bot/actions/workflows/main.yml/badge.svg)
+![CI Workflow Status](https://github.com/ChuanlongChen/LuaInterpreter/actions/workflows/main.yml/badge.svg)
 [![MIT License][license-shield]][license-url]
-
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
