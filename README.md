@@ -1,7 +1,6 @@
 
-<p align="center">
-  <img src="https://github.com/ChuanlongChen/LuaInterpreter/actions/workflows/main.yml/badge.svg" />
-</p>
+![CI Workflow Status](https://github.com/ChuanlongChen/LuaInterpreter/actions/workflows/main.yml/badge.svg)
+[![MIT License][license-shield]][license-url]
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
@@ -115,7 +114,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ChuanlongChen - chuanlongchen@gmail.com
 
-Project Link: [https://github.com/ChuanlongChen/LuaInterpreter](https://github.com/ChuanlongChen/LuaInterpreter)
+Project Link: [https://github.com/ccl2020/LuaInterpreter](https://github.com/ccl2020/LuaInterpreter)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
